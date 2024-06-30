@@ -91,6 +91,7 @@
     <Content Include="CSS\Reset.css" />
     <Content Include="CSS\Styles.css" />
     <Content Include="Global.asax" />
+    <Content Include="Img\background-dwarf.png" />
     <Content Include="Img\logo-code.png" />
     <Content Include="Img\logo-github-white.png" />
     <Content Include="Img\logo-github.png" />
