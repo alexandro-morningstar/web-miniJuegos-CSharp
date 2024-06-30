@@ -1,0 +1,48 @@
+﻿/* Selectores generales */
+
+body {
+    background-color: #050608;
+    color: white;
+    font-family: 'Montserrat', 'sans-serif';
+    padding:15%;
+}
+
+header {
+    text-align: center;
+    width: 500px;
+    margin: 20px auto 20px auto;
+}
+
+main {
+    width: 500px;
+    margin: 30px auto 30px auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="submit"] {
+    background-color: #0E1318;
+    color: #D9E4F2;
+    font-family: 'Montserrat', 'sans-serif';
+    font-size: 15px;
+    font-weight: 300;
+    border: 1px solid #8E9FB8;
+    border-radius: 5px 0px 5px 0px;
+    margin: 10px 0px 10px 0px;
+    transition: 1s;
+}
+
+input[type="submit"]:hover {
+    background-color: #D9E4F2;
+    color: #0E1318
+}
+
+footer {
+    text-align: center;
+    width: 500px;
+    margin: 50px auto 0px auto;
+    color: #53748C;
+}
