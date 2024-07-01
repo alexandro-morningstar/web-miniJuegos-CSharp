@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\webminijuegos\\views\\main\\dwarfquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|c:\\users\\aleja\\source\\repos\\solminijuegos\\webminijuegos\\models\\dwarfquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|solutionrelative:webminijuegos\\models\\dwarfquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\webminijuegos\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|solutionrelative:webminijuegos\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|c:\\users\\aleja\\source\\repos\\solminijuegos\\webminijuegos\\views\\main\\dwarfquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|solutionrelative:webminijuegos\\views\\main\\dwarfquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|c:\\users\\aleja\\source\\repos\\solminijuegos\\webminijuegos\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\webminijuegos\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|solutionrelative:webminijuegos\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|c:\\users\\aleja\\source\\repos\\solminijuegos\\webminijuegos\\css\\dwarfstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\webminijuegos\\css\\dwarfstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|solutionrelative:webminijuegos\\css\\dwarfstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|c:\\users\\aleja\\source\\repos\\solminijuegos\\webminijuegos\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB3850B-EB30-411C-BFD6-1A1B3D6DF175}|WebMiniJuegos\\WebMiniJuegos.csproj|solutionrelative:webminijuegos\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DwarfStyles.css",
               "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\CSS\\DwarfStyles.css",
               "RelativeDocumentMoniker": "WebMiniJuegos\\CSS\\DwarfStyles.css",
@@ -39,8 +43,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-30T07:55:00.671Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -48,7 +51,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DwarfQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Models\\DwarfQuiz.cs",
+              "RelativeDocumentMoniker": "WebMiniJuegos\\Models\\DwarfQuiz.cs",
+              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Models\\DwarfQuiz.cs",
+              "RelativeToolTip": "WebMiniJuegos\\Models\\DwarfQuiz.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwEMAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:29:04.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_NavBar.cshtml",
               "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Views\\Shared\\_NavBar.cshtml",
               "RelativeDocumentMoniker": "WebMiniJuegos\\Views\\Shared\\_NavBar.cshtml",
@@ -56,33 +72,32 @@
               "RelativeToolTip": "WebMiniJuegos\\Views\\Shared\\_NavBar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T08:41:31.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T08:41:31.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainController.cs",
-              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Controllers\\MainController.cs",
-              "RelativeDocumentMoniker": "WebMiniJuegos\\Controllers\\MainController.cs",
-              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Controllers\\MainController.cs",
-              "RelativeToolTip": "WebMiniJuegos\\Controllers\\MainController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T06:33:06.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DwarfQuiz.cshtml",
               "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Views\\Main\\DwarfQuiz.cshtml",
               "RelativeDocumentMoniker": "WebMiniJuegos\\Views\\Main\\DwarfQuiz.cshtml",
               "ToolTip": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Views\\Main\\DwarfQuiz.cshtml",
               "RelativeToolTip": "WebMiniJuegos\\Views\\Main\\DwarfQuiz.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-30T06:33:08.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "WebMiniJuegos\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Aleja\\source\\repos\\SolMiniJuegos\\WebMiniJuegos\\Controllers\\MainController.cs",
+              "RelativeToolTip": "WebMiniJuegos\\Controllers\\MainController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:33:06.499Z",
               "EditorCaption": ""
             }
           ]

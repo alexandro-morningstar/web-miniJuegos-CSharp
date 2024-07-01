@@ -14,8 +14,17 @@
         </header>
         <main>
             <div id="test-question">
-                <h3>Aqui van las preguntas</h3>
+                <h3>Prueba de pregunta: @TempData["question"]</h3>
+                <select>
+                    <option value="a">@TempData["a"]</option>
+                    <option value="b">@TempData["b"]</option>
+                    <option value="c">@TempData["c"]</option>
+                    <option value="d">@TempData["d"]</option>
+                </select>
             </div>
+            <form action="/Main/Quiz" method="post">
+                <input type="submit" value="Reload" />
+            </form>
         </main>
     </body>
 </html>
